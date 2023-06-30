@@ -1,24 +1,17 @@
 import user from './user.json';
+import './card/card.css';
 
 export const App = () => {
   return (
 
-  <div className="card"
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101',
-    }}>
+  <div className="profile">
     <div className="description">
       <img
         src={user.avatar}
         alt="User avatar"
         className="avatar"
       />
-      <p className="name">{user.username}</p>
+      <h5 className="name">{user.username}</h5>
       <p className="tag">@{user.tag}</p>
       <p className="location">{user.location}</p>
     </div>
