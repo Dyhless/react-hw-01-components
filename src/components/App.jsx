@@ -1,7 +1,7 @@
 import { Profile } from './profile/Profile';
 import { Statistics } from './statistics/Statistics';
 import { FriendList } from './FriendList/FriendList';
-import { Transactions } from './transactions/transactions.jsx';
+import { Transactions } from './transactions/Transactions.jsx';
 
 export const App = () => {
   return (

@@ -1,7 +1,7 @@
 import transactions from './transactions.json';
 
 export const Transactions = () => {
-  
+
   return (
       <table className="transaction-history">
         <thead>
