@@ -2,7 +2,6 @@ import transactions from './transactions.json';
 
 export const Transactions = () => {
   return (
-    <div>
       <table className="transaction-history">
         <thead>
           <tr>
@@ -21,6 +20,5 @@ export const Transactions = () => {
           ))}
         </tbody>
       </table>
-    </div>
   );
 };
