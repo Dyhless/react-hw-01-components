@@ -15,7 +15,6 @@ export const Statistics = () => {
             ))}
          </ul>
          </div>
-      
       </section>  
   );
 };
