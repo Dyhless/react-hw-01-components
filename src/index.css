@@ -1,5 +1,5 @@
 @import-normalize; /* bring in normalize.css styles */
-@import url('./components/card/card.css');
+@import url('./components/profile/profile.css');
 
 body {
   margin: 0;

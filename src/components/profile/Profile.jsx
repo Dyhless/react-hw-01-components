@@ -1,6 +1,6 @@
 import user from './user.json';
 
-export const Card = () => {
+export const Profile = () => {
   return (
     <div className="profile">
       <div className="description">

@@ -1,9 +1,9 @@
-import { Card } from './card/Card';
+import { Profile } from './profile/Profile';
 
 export const App = () => {
   return (
     <div>
-      <Card />
+      <Profile />
     </div>
   );
 };
