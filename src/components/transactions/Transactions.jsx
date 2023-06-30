@@ -1,4 +1,4 @@
-import transactions from './transactions.json';
+import transactions from './components/transactions/transactions.json';
 
 export const Transactions = () => {
   return (
