@@ -1,5 +1,7 @@
 @import-normalize; /* bring in normalize.css styles */
 @import url('./components/profile/profile.css');
+@import url('./components/statistics/statistics.css');
+@import url('./components/reset.css');
 
 body {
   margin: 0;
