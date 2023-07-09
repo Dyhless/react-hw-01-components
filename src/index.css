@@ -1,10 +1,10 @@
 @import-normalize; /* bring in normalize.css styles */
 
 @import url('./components/reset.css');
-@import url('./components/profile/profile.css');
-@import url('./components/statistics/statistics.css');
+@import url('./components/Profile/profile.css');
+@import url('./components/Statistics/statistics.css');
 @import url('./components/FriendList/friend-list.css');
-@import url('./components/transactions/transactions.css');
+@import url('./components/Transactions/transactions.css');
 
 body {
   margin: 0;
