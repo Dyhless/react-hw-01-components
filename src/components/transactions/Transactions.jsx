@@ -23,7 +23,7 @@ export const Transactions = ({ items }) => {
   );
 };
 
-Transactions.propTypes = {
+Transactions.propType = {
   items: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,
@@ -31,9 +31,5 @@ Transactions.propTypes = {
       amount: PropTypes.number.isRequired,
       currency: PropTypes.string.isRequired,
     })
-  ).isRequired,
-};
-
-Transactions.defaultProps = {
-  items: [],
+  ),
 };
