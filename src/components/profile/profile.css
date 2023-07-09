@@ -1,66 +1,66 @@
 .profile {
-   width: 18rem;
-   display: grid;
-   margin: 50px auto;
-   justify-content: center;
-   align-items: center;
-   background-color: #ffffff;
-   border: 1px solid #575757;
-   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-   border-radius: 4px;
+  width: 18rem;
+  display: grid;
+  margin: 50px auto;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid #575757;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
 }
 
 .description {
-   text-align: center;
+  text-align: center;
 }
 
 .avatar {
-   margin: 30px auto;
-   width: 100px;
-   height: 100px;
-   border-radius: 50%;
+  margin: 30px auto;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
 }
 
 .name {
-   font-weight: bold;
-   font-size: 22px;
-   color: #000000;
-   margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 22px;
+  color: #000000;
+  margin-bottom: 5px;
 }
 
 .tag,
 .location {
-   font-size: 18px;
-   color: #888;
-   margin-bottom: 5px;
+  font-size: 18px;
+  color: #888;
+  margin-bottom: 5px;
 }
 
 .name {
-   font-weight: bold;
+  font-weight: bold;
 }
 
 .location {
-   margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .stats {
-   list-style-type: none;
-   background-color: #e0e0e0;
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
+  list-style-type: none;
+  background-color: #e0e0e0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .stats-item {
-   display: block;
-   justify-content: center;
-   align-items: center;
-   border: 1px solid #575757;
-   padding: 25px 10px;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #575757;
+  padding: 25px 10px;
 }
 
 .quantity {
-   font-size: 16px;
-   font-weight: bold;
-   margin-top: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 5px;
 }

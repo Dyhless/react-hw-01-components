@@ -1,23 +1,23 @@
 .transaction-history {
-   width: 30%;
-   margin: 0 auto;
-   border-collapse: collapse;
-   font-family: Arial, sans-serif;
+  width: 30%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
 }
 
 .transaction-history th {
-   background-color: #f0f0f0;
-   font-weight: bold;
-   padding: 8px;
-   border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  font-weight: bold;
+  padding: 8px;
+  border: 1px solid #ccc;
 }
 
 .transaction-history td {
-   background-color: #ffffff;
-   padding: 8px;
-   border: 1px solid #ccc;
+  background-color: #ffffff;
+  padding: 8px;
+  border: 1px solid #ccc;
 }
 
 .transaction-history tr:nth-child(even) td {
-   background-color: #f8f8f8;
+  background-color: #f8f8f8;
 }
