@@ -1,5 +1,6 @@
 @import-normalize; /* bring in normalize.css styles */
 
+@import url('./components/reset.css');
 @import url('./components/profile/profile.css');
 @import url('./components/statistics/statistics.css');
 @import url('./components/FriendList/friend-list.css');
@@ -19,29 +20,3 @@ code {
     monospace;
 }
 
-body {
-  font-family: sans-serif;
-  line-height: 1.5;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  margin: 0;
-}
-
-ul,
-ol {
-  margin: 0;
-  padding: 0;
-}
-
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
