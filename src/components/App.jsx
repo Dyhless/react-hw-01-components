@@ -1,4 +1,4 @@
-import { Profile } from 'components/Profile/Profile';
+import { Profile } from 'components/Profile/Profile.jsx';
 import { FriendList } from 'components/FriendList/FriendList';
 import { Statistics } from 'components/Statistics/Statistics';
 import { Transactions } from 'components/Transactions/Transactions.jsx';
