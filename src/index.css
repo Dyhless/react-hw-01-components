@@ -4,7 +4,7 @@
 @import url('./components/profile/profile.css');
 @import url('./components/statistics/statistics.css');
 @import url('./components/FriendList/friend-list.css');
-@import url('./components/sransactions/transactions.css');
+@import url('./components/transactions/transactions.css');
 
 body {
   margin: 0;
