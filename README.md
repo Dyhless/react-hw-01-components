@@ -30,7 +30,7 @@ We need to create a `Profile` component with which we could display information
 about a social network user. The data about the user is in the file
 [user.json](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/goitacademy/react-homework/blob/master/homework-01/social-profile/user.json).
 
-**_component preview_**
+![Alt text](image.png)
 
 **Description of the Profile component**
 
@@ -96,7 +96,7 @@ about statistics is stored in the
 [data.json](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/goitacademy/react-homework/blob/master/homework-01/statistics/data.json)
 file.
 
-**_component preview_**
+![Alt text](image-1.png)
 
 ### Description of the Statistics component
 
@@ -152,7 +152,7 @@ information about the user's friends. The information about friends is stored in
 the file
 [friends.json](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/goitacademy/react-homework/blob/master/homework-01/friend-list/friends.json).
 
-**_component preview_**
+![Alt text](image-2.png)
 
 ### Description of the `FriendList` component
 
@@ -200,7 +200,7 @@ import friends from 'path/to/friends.json';
 A component of the transaction history must be created in the personal profile
 of the Internet Bank.
 
-**_component preview_**
+![Alt text](image-3.png)
 
 Data for the list is available in JSON format in the file
 [transactions.json](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/goitacademy/react-homework/blob/master/homework-01/transaction-history/transactions.json).
